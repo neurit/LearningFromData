@@ -1,1 +1,4 @@
 # LearningFromData
+Here are Jupyter notebooks of all of my solutions to the homework of CalTech's Learning from Data course. For my own purposes, the goal was to both complete the course, as well as better learn numpy and python as it relates to machine learning, so some care was made to use as much 'idiomatic' (vectorized) numpy code as possible. Also to that end, most of the ML algorithms were written from scratch, as opposed to just using existing scikit-learn modules, with the notable exception of the quadratic programming package imported for the SVM homework. This was intended to be just a neatly typesetted personal reference text, and not a proper solution set, so while the majority of the solutions match the released multiple choice answers, there's no guarantee of their accuracy. 
+
+There are some LaTeX/Markdown rendering issues when viewing the notebooks on GitHub that seem to disappear locally. 
